@@ -1,0 +1,12 @@
+D:\Projects C#\FigoOS\FigoOS\bin\Debug\net6.0\FigoOS.deps.json
+D:\Projects C#\FigoOS\FigoOS\bin\Debug\net6.0\FigoOS.dll
+D:\Projects C#\FigoOS\FigoOS\bin\Debug\net6.0\FigoOS.pdb
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\FigoOS.csproj.AssemblyReference.cache
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\FigoOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\FigoOS.AssemblyInfoInputs.cache
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\FigoOS.AssemblyInfo.cs
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\FigoOS.csproj.CoreCompileInputs.cache
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\FigoOS.dll
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\refint\FigoOS.dll
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\FigoOS.pdb
+D:\Projects C#\FigoOS\FigoOS\obj\Debug\net6.0\ref\FigoOS.dll
